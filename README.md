@@ -1,4 +1,4 @@
-# Happy
+# Happy Web
 
 ## Front-End:
 React.js, HTML, CSS e TypeScript, biblioteca leaflet para a utilização de mapas na aplicação.
