@@ -15,4 +15,5 @@ https://www.figma.com/file/SquhsETXA6gz01NLFTSELN/Happy-Web-(Copy)?node-id=0%3A1
 ### Página do mapa de pesquisas de orfanatos
 ![pag-mapa](https://user-images.githubusercontent.com/63068481/97807139-deb63d00-1c3d-11eb-9b9e-799225e0bf7f.png)
 ### Página de criação do orfanato
-![pag-criacao-orfanato](https://user-images.githubusercontent.com/63068481/97807149-ef66b300-1c3d-11eb-880d-35140e7c465b.png)
+![pag-criacao-orfanato-2](https://user-images.githubusercontent.com/63068481/97807620-8f254080-1c40-11eb-9488-ae4f84122f1a.png)
+
