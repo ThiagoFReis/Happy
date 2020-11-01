@@ -4,7 +4,7 @@
 React.js, HTML, CSS e TypeScript, biblioteca leaflet para a utilização de mapas na aplicação.
 
 ## Back-End: 
-
+Feito em node.js + express, TypeORM, validações no react com o yup, e banco de dados SQLite. 
 
 ## Protótipo:
 https://www.figma.com/file/SquhsETXA6gz01NLFTSELN/Happy-Web-(Copy)?node-id=0%3A1
